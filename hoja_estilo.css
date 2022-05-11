@@ -15,7 +15,6 @@ body{
     background-position: center -130px ;
     background-attachment: fixed;
     background-size: cover;
-    min-width: 100vh;
 }
 
 .container{
