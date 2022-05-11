@@ -152,7 +152,7 @@ footer{
 
 .footer__link{
     text-decoration: none;
-    color: var(--color-negro);
+    color: var(--color-blanco);
 }
 
 @media only screen and (max-width: 767px) {
