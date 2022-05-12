@@ -28,6 +28,9 @@ body{
     flex-wrap: wrap;
 }
 
+.titulo{
+    font-family: 'Sugarpunch DEMO', sans-serif;
+}
 .header{
     background-color: gainsboro;
     border-bottom:solid 2px #0E6655;
@@ -107,7 +110,7 @@ transform: rotate(10deg) scale(1.3);
 }
 
 .light-box img{
-    width: 55vw;
+    width: 45vw;
     max-height: 75vh;
 }
 @media only screen and (max-width: 767px) {
@@ -176,6 +179,7 @@ footer{
     margin-bottom: 0;
     font-size: 2rem;
     text-align: center;
+    color:var(--color-blanco);
 }
 .caja__logo{
     padding-top: 0;
