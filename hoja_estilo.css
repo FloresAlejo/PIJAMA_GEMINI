@@ -210,3 +210,17 @@ footer{
     font-size: 1.5em;
     margin: 0 1em;
 }
+
+.index{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(imagenes/foto_inicio.png);
+    background-position: center -130px ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 767px) {
+    .index{
+        background-image: url(imagenes/foto_inicio.png);
+    }
+}
